@@ -31,6 +31,7 @@ header {
   width: 195px;
   height: 195px;
   margin: 20px 0px 0px 20px;
+  border-radius: 10px;
 }
 
 .info {
